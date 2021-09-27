@@ -1,6 +1,11 @@
-# Procecurse
+# Prosecurse
 
-Página Web criada com HTML e CSS utilizando template grátis fornecido pelo FIGMA. O tema do layout: empresa Procecurse
+Página Web criada com HTML e CSS utilizando template grátis fornecido pelo FIGMA. Tema do layout: empresa Prosecurse
+
+
+### Layout
+
+[Link para layout](https://www.figma.com/community/file/911342454939835406)
 
 ### Objetivo
 
